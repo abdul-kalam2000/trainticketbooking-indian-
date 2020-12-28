@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>   //bsdk kaisa h
 #include<conio.h>
 #include<stdlib.h>
 #include<string.h>
